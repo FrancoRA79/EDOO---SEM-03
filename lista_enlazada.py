@@ -6,3 +6,5 @@ def buscar_producto(productos, nombre):
             return producto
 
     return None
+
+print("Comprobando el push")
