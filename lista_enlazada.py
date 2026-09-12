@@ -9,3 +9,4 @@ def buscar_producto(productos, nombre):
 
 print("Comprobando el push")
 print("Comprobando de nuevo")
+print("Compruebo si se da el cambio")
