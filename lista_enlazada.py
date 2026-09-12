@@ -8,3 +8,4 @@ def buscar_producto(productos, nombre):
     return None
 
 print("Comprobando el push")
+print("Comprobando de nuevo")
